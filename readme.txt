@@ -1,5 +1,3 @@
-FUTURE
-HNDRXX
-AND
-YOUNG
-METRO
+Future Hendrix
+and
+Young Metro
